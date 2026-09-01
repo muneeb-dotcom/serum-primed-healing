@@ -1,0 +1,9 @@
+name,cid,smiles,sdf_file,note
+lactic acid,612,CC(C(=O)O)O,data/raw/lactic_acid_CID612_3d.sdf,
+salicylic acid,338,C1=CC=C(C(=C1)C(=O)O)O,data/raw/salicylic_acid_CID338_3d.sdf,
+ascorbic acid,54670067,C([C@@H]([C@@H]1C(=C(C(=O)O1)O)O)O)O,data/raw/ascorbic_acid_CID54670067_3d.sdf,
+asiaticoside,11954171,C[C@@H]1CC[C@@]2(CC[C@@]3(C(=CC[C@H]4[C@]3(CC[C@@H]5[C@@]4(C[C@H]([C@@H]([C@@]5(C)CO)O)O)C)C)[C@@H]2[C@H]1C)C)C(=O)O[C@H]6[C@@H]([C@H]([C@@H]([C@H](O6)CO[C@H]7[C@@H]([C@H]([C@@H]([C@H](O7)CO)O[C@H]8[C@@H]([C@@H]([C@H]([C@@H](O8)C)O)O)O)O)O)O)O)O,data/raw/asiaticoside_CID11954171_2d.sdf,used 2D SDF (no 3D conformer on PubChem); CB-Dock2 can generate 3D itself
+acemannan,134129847,CC(=O)N[C@H]1[C@@H]([C@@H]([C@H](O[C@H]1O[C@@H]2[C@H](O[C@H]([C@H]([C@H]2OC(=O)C)O)O[C@@H]3[C@H](O[C@H]([C@H]([C@H]3OC(=O)C)O)O[C@@H]4[C@H](O[C@H]([C@H]([C@H]4OC(=O)C)O)OC)CO)CO)CO)CO)O[C@H]5[C@H]([C@H]([C@@H]([C@H](O5)CO)O[C@H]6[C@H]([C@H]([C@@H]([C@H](O6)C(=O)O)O[C@H]7[C@H]([C@H]([C@@H]([C@H](O7)CO)O[C@H]8[C@H]([C@H]([C@@H]([C@H](O8)CO)OC)OC(=O)C)O)OC(=O)C)O)OC(=O)C)O)OC(=O)C)O)O,data/raw/acemannan_CID134129847_2d.sdf,used 2D SDF (no 3D conformer on PubChem); CB-Dock2 can generate 3D itself
+Pal-KTTKS,9897237,CCCCCCCCCCCCCCCC(=O)N[C@@H](CCCCN)C(=O)N[C@@H]([C@@H](C)O)C(=O)N[C@@H]([C@@H](C)O)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CO)C(=O)O,data/raw/Pal-KTTKS_CID9897237_2d.sdf,used 2D SDF (no 3D conformer on PubChem); CB-Dock2 can generate 3D itself
+GHK-Cu,139035031,C1=C(N=CN1)C[C@@H](C(=O)N[C@@H](CCCCN)C(=O)[O-])[N-]C(=O)C[NH-].[Cu+2],data/raw/GHK-Cu_CID139035031_2d.sdf,used 2D SDF (no 3D conformer on PubChem); CB-Dock2 can generate 3D itself
+glycolic acid,757,C(C(=O)O)O,data/raw/glycolic_acid_CID757_3d.sdf,

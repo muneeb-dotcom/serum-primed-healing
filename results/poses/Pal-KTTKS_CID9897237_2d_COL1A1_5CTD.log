@@ -1,0 +1,48 @@
+AutoDock Vina v1.2.7
+#################################################################
+# If you used AutoDock Vina in your work, please cite:          #
+#                                                               #
+# J. Eberhardt, D. Santos-Martins, A. F. Tillack, and S. Forli  #
+# AutoDock Vina 1.2.0: New Docking Methods, Expanded Force      #
+# Field, and Python Bindings, J. Chem. Inf. Model. (2021)       #
+# DOI 10.1021/acs.jcim.1c00203                                  #
+#                                                               #
+# O. Trott, A. J. Olson,                                        #
+# AutoDock Vina: improving the speed and accuracy of docking    #
+# with a new scoring function, efficient optimization and       #
+# multithreading, J. Comp. Chem. (2010)                         #
+# DOI 10.1002/jcc.21334                                         #
+#                                                               #
+# Please see https://github.com/ccsb-scripps/AutoDock-Vina for  #
+# more information.                                             #
+#################################################################
+
+Scoring function : vina
+Rigid receptor: data/processed/pdbqt_receptors/COL1A1_5CTD.pdbqt
+Ligand: data/processed/pdbqt_ligands/Pal-KTTKS_CID9897237_2d.pdbqt
+Grid center: X 13.8245 Y 30.6685 Z -22.713
+Grid size  : X 54.125 Y 49.651 Z 60
+Grid space : 0.375
+Exhaustiveness: 8
+CPU: 0
+Verbosity: 1
+
+Computing Vina grid ... done.
+Performing docking (random seed: 1053657125) ... 
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+
+mode |   affinity | dist from best mode
+     | (kcal/mol) | rmsd l.b.| rmsd u.b.
+-----+------------+----------+----------
+   1       -3.877          0          0
+   2       -3.799       19.3      24.38
+   3       -3.763      3.146      5.731
+   4       -3.704      20.65      25.71
+   5        -3.66      13.92      17.21
+   6       -3.659      3.384       6.67
+   7       -3.654      13.41         15
+   8       -3.612      2.033      4.177
+   9       -3.598      15.42      18.43
+WARNING: Search space volume is greater than 27000 Angstrom^3 (See FAQ)

@@ -1,0 +1,16 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+*.Rhistory
+.Rproj.user/
+
+# Python
+__pycache__/
+*.pyc
+
+# Large intermediate files (regeneratable from scripts, not needed in repo)
+data/processed/pdbqt_receptors/
+data/processed/pdbqt_ligands/
+data/raw/GSE158395/*.gz
+
+# keep everything else: SDFs, PDBs, all results/tables/figures, all scripts

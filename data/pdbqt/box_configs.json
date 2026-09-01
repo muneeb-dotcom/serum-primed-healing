@@ -1,0 +1,38 @@
+{
+  "CASP3_2J32": {
+    "ligand_used": "ACE",
+    "center_x": 40.58,
+    "center_y": 13.94,
+    "center_z": 75.23,
+    "size_x": 20.0,
+    "size_y": 20.0,
+    "size_z": 20.0
+  },
+  "CASP8_4JJ7": {
+    "ligand_used": "1MH",
+    "center_x": 61.36,
+    "center_y": 77.48,
+    "center_z": 156.14,
+    "size_x": 20.0,
+    "size_y": 20.0,
+    "size_z": 20.0
+  },
+  "HCAR2_8J6P": {
+    "ligand_used": "IX8",
+    "center_x": 106.06,
+    "center_y": 139.72,
+    "center_z": 117.65,
+    "size_x": 20.0,
+    "size_y": 21.19,
+    "size_z": 24.83
+  },
+  "TGFBR1_3TZM": {
+    "ligand_used": "085",
+    "center_x": 4.53,
+    "center_y": 8.72,
+    "center_z": 6.78,
+    "size_x": 20.0,
+    "size_y": 20.0,
+    "size_z": 23.42
+  }
+}

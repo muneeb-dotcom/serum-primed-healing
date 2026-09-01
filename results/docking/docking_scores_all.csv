@@ -1,0 +1,15 @@
+compound,target,docking_score_kcal_mol,note
+lactic acid,HCAR2,-3.59,
+asiaticoside,TGFBR1,-13.68,large flexible molecule - sanity-check pose in PyMOL
+asiaticoside,CASP8,-10.06,
+salicylic acid,PTGS2,-5.807,
+ascorbic acid,P4HA1,-5.027,
+ascorbic acid,P4HA2,-4.416,
+asiaticoside,CASP3,-7.915,
+asiaticoside,NFKB1,-8.514,
+asiaticoside,ICAM1,-6.704,
+Pal-KTTKS,COL1A1,-3.877,
+GHK-Cu,MMP2,-4.657,Cu2+ ion excluded - Vina cannot score metal coordination chemistry; docked peptide backbone only
+acemannan,TLR4,,not docked - SMILES/molecule exceeded tool size limits; literature-only target
+acemannan,MRC1,,not docked - SMILES/molecule exceeded tool size limits; literature-only target
+glycolic acid,none,,no literature-confirmed target identified in Day 2
