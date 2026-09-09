@@ -86,3 +86,5 @@ docs/ write-up drafts
 
 \- This pipeline produces a hypothesis-generating, evidence-weighted prediction — not a validated biological outcome. Wet-lab/in vivo testing is required to confirm any result.
 
+## Regeneration Propensity Score Breakdown
+![Score breakdown](results/figures/day11_score_breakdown.png)
